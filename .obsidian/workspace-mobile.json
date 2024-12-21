@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "87b38fc22afe76f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "905189536369433e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f3c0575ded9b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Skychild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skychild"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4845ece630cda499",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c6576b6ae842845",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3f8fe2c0780ad3a1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0e6aaae991a6e017",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c1fa8b7114423684",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "97042182f63c816a",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Spaces"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "37ff8538d34e5e41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "19db6376e62162ce",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Creatures/Skychild.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "154cd924fdf1a188",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d550fb595c62e032",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "55f3c0575ded9b33",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Creatures/Skychild.md",
+    "Creatures/Crab.md",
+    "Vault.md",
+    "Tags/Tags.md",
+    "Tags/#world-building/#world-building.md",
+    "Tags/#world-building",
+    "Tags/Lol.md",
+    "Creatures/Creatures.md",
+    "Creatures/Skychild_dnd.pdf",
+    "Creatures",
+    "Creatures/Skychild_dnd.md",
+    "Tags",
+    "Test.md",
+    "Creatures/Skychild_dnd.html",
+    "Skychild_dnd.org~",
+    "Skychild_dnd.html~",
+    "Creatures/Skychild_dnd.odt",
+    "Creatures/Skychild_dnd.org"
+  ]
+}

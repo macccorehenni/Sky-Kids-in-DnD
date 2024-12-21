@@ -1,0 +1,62 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "editor:fold-more",
+      "icon": "lucide-fold-vertical",
+      "name": "Flatten",
+      "mode": "any"
+    },
+    {
+      "id": "editor:fold-less",
+      "icon": "lucide-unfold-vertical",
+      "name": "Expand",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "lucide-git-pull-request-arrow",
+      "name": "Git: Pull",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-git:push",
+      "icon": "lucide-git-merge",
+      "name": "Sync",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-spellcheck",
+      "icon": "lucide-check-check",
+      "name": "Spell",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
